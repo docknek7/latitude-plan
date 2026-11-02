@@ -2,16 +2,6 @@
 
 个人培养计划网页：面向 2026 年 11 月—2027 年 10 月的技术能力、求职作品、用户访谈、金钱管理与每周复盘。
 
-## 在线发布（GitHub Pages）
-
-这个项目是零依赖静态站点。推荐使用公开仓库 `latitude-plan`：
-
-1. 在 GitHub 登录后打开 https://github.com/new ，Repository name 填 `latitude-plan`，Visibility 选 **Public**，创建仓库。
-2. 点击 **Add file → Upload files**，把本项目根目录里的 `index.html`、`README.md`、`.nojekyll` 上传到仓库根目录，点击 **Commit changes**。注意上传的是解压后的文件，**不是整个 zip**。
-3. 打开仓库的 **Settings → Pages**，在 **Build and deployment** 选择 **Deploy from a branch**；Branch 选择 `main`，Folder 选择 `/(root)`，保存。
-4. 站点地址：`https://docknek7.github.io/latitude-plan/`（以 GitHub Pages 页面显示的状态为准）。
-
-`index.html` 即完整网页，未来修改后重新提交即可更新网站。
 
 ## 功能
 
